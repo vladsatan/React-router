@@ -1,6 +1,6 @@
 export const ROUTES = {
-    root: '/',
-    alboms: (userId) => userId ? `albums/${userId}` : 'albums/:userId'
+    root: '/React-router',
+    alboms: (userId) => userId ? `/albums/${userId}` : 'albums/:userId'
 }
 
 export const REQUEST_URL = {
