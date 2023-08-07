@@ -1,0 +1,13 @@
+.container {
+    max-width: 840px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #fff0eb;
+}
+
+.container h1 {
+    padding: 10px 0px;
+    color: #f08585;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+}

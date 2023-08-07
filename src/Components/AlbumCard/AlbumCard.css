@@ -1,0 +1,60 @@
+.albom-card {
+    max-width: 600px;
+    margin: 0px auto 10px auto;
+    padding: 20px;
+    background-color: white;
+    border: 1px solid white;
+    text-align: center;
+    transition: .2s;
+}
+
+.albom-card-flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.albom-card:hover {
+    border-radius: 8px;
+    border: 1px solid #ea5656b8;
+}
+
+.albom-card h2 {
+    font-size: 40px;
+    color: #ea5656b8;
+    margin-right: 40px;
+}
+
+.albom-card p {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.albom-card button {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #ea5656b8;
+    color: white;
+    text-transform: capitalize;
+    border-radius: 8px;
+    outline: none;
+    border: none;
+    transition: .2s;
+}
+
+.albom-card button:hover {
+    background-color: #ff3333b8;
+}
+
+.photo-box {
+    border-top: 1px solid black;
+    padding-top: 20px;
+    margin-top: 10px;
+}
+
+.photo-box h3 {
+    text-transform: capitalize;
+    font-size: 22px;
+    padding-bottom: 20px;
+
+}

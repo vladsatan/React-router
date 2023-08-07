@@ -1,0 +1,23 @@
+.user-card {
+    width: 70%;
+    margin: 10px auto;
+    padding: 10px 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.user-card img {
+    width: 50px;
+}
+
+.alboms-btn {
+    text-decoration: none;
+    padding: 10px 7px;
+    background-color: #ea5656b8;
+    color: white;
+    text-transform: capitalize;
+    border-radius: 8px;
+}
