@@ -1,4 +1,4 @@
-import { HashRouter, createBrowserRouter } from 'react-router-dom';
+import { createBrowserRouter } from 'react-router-dom';
 import Users from './Pages/Users/Users';
 import Albums from './Pages/Albums/Albums';
 import { getUsers } from './services/getUsers';
